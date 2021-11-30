@@ -1,0 +1,1 @@
+C:\Users\tdn-edu13\Desktop\venv_PetHouse\Scripts\activate.bat
