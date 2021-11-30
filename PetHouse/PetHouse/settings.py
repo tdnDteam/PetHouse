@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     
-    'django.apps.PetConfig',
+    'pet.apps.PetConfig',
 ]
 
 MIDDLEWARE = [
@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'PetHouse.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'PetHouse',
+        'NAME': 'pethouse',
         'USER': 'postgres',
         'PASSWORD': 'c9tyz2000',
         'HOST':'',
